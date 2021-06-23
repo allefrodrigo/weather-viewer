@@ -1,24 +1,24 @@
-# vue-tempo
+# weather-viewer
+
+<img src="https://i.ibb.co/bRLskt8/bg-2.png">
 
 ## Project setup
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### Compilação e hot-reloads para desenvolvimento
 ```
 yarn serve
 ```
 
-### Compiles and minifies for production
+### Compilação e mimificação para produção
 ```
 yarn build
 ```
 
-### Lints and fixes files
+### Lints 
 ```
 yarn lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
