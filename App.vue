@@ -18,6 +18,7 @@
             <h1 class="heading" v-if= "weather.weather[0].main == 'Clear'">Céu limpo</h1>
           </div>
         </div>
+        
         <div class="bottom">
           <div class="wrapper">
             <ul class="forecast">
